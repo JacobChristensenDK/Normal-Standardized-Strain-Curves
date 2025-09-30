@@ -1,4 +1,4 @@
-This code interpolates and creates EDS and LDS values.
+This code interpolates strain curves to create the standardised curves for comparison. In addition the script creates EDS and LDS values.
 
 strain_DATA must be a struct organized as in the following way: strain_DATA -->
 patient ID --> 3 fields called x2CH (2 chamber), x4CH (four chamber) and
